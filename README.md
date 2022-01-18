@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi everyone!
 
 <!--
+### Little bit about me
+My name is Maurycy Zawistowski, currently (looking backward) i can say i'm IT hobbyst. I started from 3d graphic when i was 11 years old, why? This is fun, my father had Daewoo Matiz in that time, and i cannot find mod for GTA San Andreas which i played, so i decided to create my own. After some time i want to share my works in the internet so i started learn how to make websites, later i was interesting how the games are developed so i touched c++/dx programming. 
+
+
 **maurycy815/maurycy815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
